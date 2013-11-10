@@ -1,0 +1,31 @@
+body {
+  padding-top: 50px;
+}
+h1 {
+  text-align: center;  
+}
+.main {
+  padding: 40px 15px;
+  text-align: center;
+}
+dl {
+  margin: 0;
+}
+dt {
+  margin-bottom: 5px;
+}
+dd > p {
+  margin: 0;
+}
+td:first-child {
+  width: 10%;
+}
+#lightning {
+  text-align: center;
+}
+#registration {
+  text-align: center;
+}
+#location {
+  text-align: center;
+}
