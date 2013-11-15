@@ -29,3 +29,6 @@ td:first-child {
 #location {
   text-align: center;
 }
+.lightning dd {
+  margin-bottom: 5px;
+}
